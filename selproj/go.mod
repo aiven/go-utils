@@ -5,7 +5,7 @@ go 1.22
 toolchain go1.23.2
 
 require (
-	github.com/aiven/aiven-go-client/v2 v2.31.0
+	github.com/aiven/aiven-go-client/v2 v2.32.0
 	github.com/stretchr/testify v1.10.0
 )
 
